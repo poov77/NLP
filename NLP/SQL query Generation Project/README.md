@@ -36,5 +36,3 @@ Ensure you have Python installed on your system.
 pip install streamlit pandas sqlalchemy groq matplotlib
 
 
-<img width="1858" height="853" alt="image" src="https://github.com/user-attachments/assets/55504d56-be8c-4389-bd59-20924fae0823" />
-<img width="1877" height="852" alt="image" src="https://github.com/user-attachments/assets/8090a4e1-01f6-48d9-a39f-28f650c851ca" />
